@@ -9,4 +9,4 @@ PWIM is pairwise word interaction model, which was first proposed in this [paper
   	} 
     
 ## A few notes
-1. This repository is the same as our [Subword-PWIM](https://github.com/lanwuwei/Subword-PWIM), which contains both word level and subword level embeddings.
+1. This repository is the same as our [Subword-PWIM](https://github.com/lanwuwei/Subword-PWIM), which contains both word level and subword level inputs.
