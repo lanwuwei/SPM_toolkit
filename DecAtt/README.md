@@ -9,5 +9,5 @@ DecAtt represents decomosable attention model, which was first proposed in this 
   	} 
   
 ## A few notes
-1. Creat data folder and download SNLI and MNLI [here](https://drive.google.com/drive/folders/1h4PnoST3MdqEdRfRKpBe-JlxzKIYvv-F?usp=sharing), then change the corresponding path for data and embedding vectors in main file.
+1. Creat data folder and download SNLI, MNLI and Quora [here](https://drive.google.com/drive/folders/1h4PnoST3MdqEdRfRKpBe-JlxzKIYvv-F?usp=sharing), then change the corresponding path for data and embedding vectors in main file.
 2. If you want to run DecAtt on SNLI dataset, just type: python main_snli.py
