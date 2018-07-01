@@ -7,7 +7,6 @@ from torch import optim
 import torch.nn as nn
 from datetime import datetime
 from torch_util import *
-import config
 import tqdm
 import data_loader
 import sys
