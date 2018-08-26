@@ -14,3 +14,4 @@ ESIM represents The Enhanced Sequential Inference Model, which was first propose
 
 1. We refer the [original theano code](https://github.com/lukecq1231/nli) for our PyTorch implementation.
 2. Tree_IM contains code for tree version of ESIM.
+3. The corresponding processed data can be found [here](https://drive.google.com/drive/folders/1h4PnoST3MdqEdRfRKpBe-JlxzKIYvv-F?usp=sharing)
