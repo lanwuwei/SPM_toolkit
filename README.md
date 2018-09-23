@@ -1,5 +1,5 @@
 ## SPM_toolkit
-This repository contains code and data used in the following [paper](https://arxiv.org/abs/1805.08297):
+This repository contains code and data used in the following [paper](https://arxiv.org/abs/1806.04330):
 
 	@inproceedings{lan2018toolkit,
 	  author     = {Lan, Wuwei and Xu, Wei},
